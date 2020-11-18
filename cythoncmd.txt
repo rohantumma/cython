@@ -1,0 +1,11 @@
+craete setup.py
+
+run setup.py: python3 setup.py build_ext --inline
+
+then create testing.py
+
+then run testing.py: pyhton3 testing.py
+
+
+
+vido: https://www.youtube.com/watch?v=mXuEoqK4bEc
